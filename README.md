@@ -12,3 +12,4 @@ pip install pyTelegramBotAPI
 
 После ввода данных. Приложение сохранит настройки в файле config.txt
 Собранную версию можете найти на моем канале https://t.me/CheFlav
+![alt text](image.png)
