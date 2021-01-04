@@ -1,0 +1,4 @@
+Ваш ВК токен
+Ваш Telegram токен
+@channel или id канала
+id групп вк(lolwildrift leguefun...)
